@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Analytics at RevoU Full-Stack Data Analytics Program
 - 📫 How to reach me : 
+
       LinkedIn: https://www.linkedin.com/in/dea-andini-putri/
       email: deaandi.28@gmail.com or deaandi28@outlook.com
 
